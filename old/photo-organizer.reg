@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\photo_organizer]
+@="Organize Photos Here"
+"Icon"="C:\\Program Files\\Photo Organizer\\photo-organizer.ico"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\photo_organizer\command]
+@="\"C:\\Program Files\\Photo Organizer\\photo-organizer.exe\" \"%v.\""

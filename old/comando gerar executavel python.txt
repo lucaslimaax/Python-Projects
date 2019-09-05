@@ -1,0 +1,5 @@
+instalar o criador de executaveis no cmd com o comando:
+
+pip install pyinstaller
+
+pyinstaller -w -F photo-organizer.py
